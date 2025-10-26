@@ -8,8 +8,7 @@ export const siteConfig = {
     linkedin: "https://www.linkedin.com/in/supriyana/",
   },
   aboutMe:
-    "Hi, My name is Supriyana. I'm interested in working in customer service, software development, especially WordPress, and graphic design.
-I currently work as a Quality Assurance Specialist for an Inbound Call Project. I'm constantly learning and am challenged to learn new things. Let's collaborate together...",
+    "Hi, My name is Supriyana. I'm interested in working in customer service, software development, especially WordPress, and graphic design. I currently work as a Quality Assurance Specialist at  Inbound Call Project. I'm constantly learning and am challenged to learn new things. Let's collaborate together",
   skills: ["Inbound Call", "Customer Services", "SalesForce","Content Moderation", "Wordpress Developer", "Graphic Design", "Corel Draw"],
   projects: [
     {
