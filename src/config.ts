@@ -1,15 +1,16 @@
 export const siteConfig = {
   name: "Supriyana",
   title: "Quality Assurance Specialist",
-  description: "Portfolio website of Ryan Fitzgerald",
+  description: "Portfolio website of Supriyana",
   accentColor: "#1d4ed8",
   social: {
     email: "info.supriyana@gmail.com",
     linkedin: "https://www.linkedin.com/in/supriyana/",
   },
   aboutMe:
-    "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem quos asperiores nihil consequatur tempore cupiditate architecto natus commodi corrupti quas quasi facere est, dignissimos odit nam veniam sapiente ut, vitae eligendi ipsum dolor, nostrum ullam impedit! Corrupti ratione mollitia temporibus necessitatibus, consectetur reiciendis recusandae id, dolorum quaerat, vero pariatur. Ratione!",
-  skills: ["Inbound Call", "Customer Services", "SalesForce", "Wordpress Developer", "Graphic Design", "Docker"],
+    "Hi, My name is Supriyana. I'm interested in working in customer service, software development, especially WordPress, and graphic design.
+I currently work as a Quality Assurance Specialist for an Inbound Call Project. I'm constantly learning and am challenged to learn new things. Let's collaborate together...",
+  skills: ["Inbound Call", "Customer Services", "SalesForce","Content Moderation", "Wordpress Developer", "Graphic Design", "Corel Draw"],
   projects: [
     {
       name: "AI Dev Roundup Newsletter",
